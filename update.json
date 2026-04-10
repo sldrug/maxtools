@@ -2,4 +2,5 @@
   "version": "1.0.0",
   "downloadUrl": "ССЫЛКА_НА_ТВОЙ_ZXP",
   "isKillSwitchActive": false,
+  "allowedUsers": ["m.belov", "m.babenkov", "user_3"]
 }
