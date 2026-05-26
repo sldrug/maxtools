@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "downloadUrl": "https://github.com/sldrug/maxtools/releases/download/v3.0.0_ai/MaxToolsPro_v3.0.0.zxp",
+  "version": "4.0.0",
+  "downloadUrl": "https://github.com/sldrug/maxtools/releases/download/v4.0.0/MaxToolsPro_v4.0.0.zxp",
   "isKillSwitchActive": false,
   "disabledTabs": ["tab-markers"], 
-  "allowedUsers": ["m.belov", "m.babenkov", "v.davidenko", "m.belobrova", "an.gordeev", "iv.panchenko", "sldrug", "togas"]
+  "allowedUsers": ["m.belov", "m.babenkov", "v.davidenko", "m.belobrova", "an.gordeev", "iv.panchenko", "sldrug", "togas", "r.gulyaev"]
 }
