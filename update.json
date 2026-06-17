@@ -1,7 +1,7 @@
 {
   "version": "5.0.0",
-  "downloadUrl": "https://github.com/sldrug/maxtools/releases/download/v5.0.0_ai/MaxToolsPro_v5.0.0.zxp",
+  "downloadUrl": "https://github.com/sldrug/maxtools/releases/download/v5.0.0/MaxToolsPro_v5.0.0.zxp",
   "isKillSwitchActive": false,
-  "disabledTabs": ["tab-markers"], 
+  "disabledTabs": ["tab-markers"],
   "allowedUsers": ["m.belov", "m.babenkov", "v.davidenko", "m.belobrova", "an.gordeev", "iv.panchenko", "sldrug", "togas", "r.gulyaev", "a.pechenkin"]
 }
